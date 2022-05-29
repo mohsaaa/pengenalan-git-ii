@@ -1,0 +1,1 @@
+console.log("Halo aku adalah repository ke-2");
